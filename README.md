@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @PakooJR
 - 👀 I’m interested in Program
 - 🌱 I’m currently learning Ciber Security
 
